@@ -1,4 +1,4 @@
-# Mac-Reinstall-Checklist
+# Mac (Re)Install Checklist
 This is a "dumb" list to reinstall the apps that I use on my mac.
 
 ## Apps
