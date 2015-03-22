@@ -1,7 +1,8 @@
 # Mac-Reinstall-Checklist
 This is a "dumb" list to reinstall the apps that I use on my mac.
 
-## Apps — App Store
+## Apps
+### App Store
 * Fantastical
 * Unibox
 * SonicWALL Mobile Connect
@@ -32,7 +33,7 @@ This is a "dumb" list to reinstall the apps that I use on my mac.
 * The Unarchiver
 * SmartZipper
 
-## Apps — Other
+### Apps — Other
 * Hipchat
 * SourceTree
 * Adobe PhotoShop
@@ -65,17 +66,14 @@ This is a "dumb" list to reinstall the apps that I use on my mac.
 ## Settings
 * System Preferences
 
-		
 ## Tweaks
-*PlayButtoniTunesPatch
-*QuickLook Tweaks
+* PlayButtoniTunesPatch
+* QuickLook Tweaks
 
-
-MariaDB
-Apache2
-PHP
-
-Brew
-ack
-
-Ruby
+## Other
+* MariaDB
+* Apache2
+* PHP
+* Brew
+* ack
+* Ruby
